@@ -1,5 +1,10 @@
 {
     "title": "Google Advertising Management Service",
     "description": "Within your budget, we will implement the relevant and engaging campaigns that will speak for your business.",
-    "slug": "google-advertising-management-service"
+    "slug": "google-advertising-management-service",
+    "hero": {
+        "subTitle": "Leading Google Ads Management Service Agency",
+        "title": "Invest Less. Earn More. Stay Relevant!",
+        "shortDescription": "Within your budget, we will implement the relevant and engaging campaigns that will speak for your business. "
+    }
 }
