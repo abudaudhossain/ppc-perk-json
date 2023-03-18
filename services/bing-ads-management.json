@@ -6,5 +6,59 @@
         "subTitle": "Leading Microsoft Ads Management Service Agency",
         "title": "Invest Less. Earn More. Stay Relevant!",
         "shortDescription": "Within your budget, we will implement the relevant and engaging campaigns that will speak for your business. "
-    }
+    },
+    "analyzingSkills": {
+        "title": "Stay Ahead of the Competitors with Our Expert Competitor Analyzing",
+        "description": "We aim to raise your brand value and awareness to keep you ahead in the competitive industry. Also, we analyze the competitors’ content to arrange campaigns that beat theirs. And based on their performance, we may optimize your ad account to improve results.",
+        "images": [],
+        "skills": [
+            {
+                "label": "key Performance Indicator",
+                "key": "",
+                "value": "95"
+            },
+            {
+                "label": "Return On Ad Spend",
+                "key": "",
+                "value": "99"
+            },
+            {
+                "label": "Return Of Investment",
+                "key": "",
+                "value": "100"
+            }
+        ]
+    },
+    "analytics": [
+        {
+            "serialNo": 0,
+            "title": "Reach All Types of Audiences with Our Ad Variations",
+            "description": "Not every buyer falls for the same marketing strategy. So, along with PPC ads, we create display ads, video campaigns, and marketing copies to reach out to the target audience with diverse preferences. You can expect to persuade buyers with the ad variations we bring in.",
+            "image": "/assets/image/image-1.png"
+        },
+        {
+            "serialNo": 1,
+            "title": "Several Budget Packages Available for All Types of Campaigns",
+            "description": "We are not limited to premium budgets only. Rather, we offer budget packages that the newbies in the industry can pay for. So, even if you invest less, authentic traffic will find you every single day through our strategic campaigns.",
+            "image": "/assets/image/image-1.png"
+        }
+    ],
+    "questions": [
+        {
+            "question": " How Much Traffic Can I Expect?",
+            "answer": "It depends on what type of service plan you choose. If you go for variations in the ad campaigns, there will be more organic traffic."
+        },
+        {
+            "question": "What Is A Good Budget For Google Ad Management Services?",
+            "answer": "The budget for google ads can vary according to your business type and the goals you set. If you do not have any specific targets set, we will arrange a meeting with you to help you choose from the budget options."
+        },
+        {
+            "question": "Do I Have To Provide You With Content For The Campaigns?",
+            "answer": "It is not necessary for you to do so. We solely take the responsibility to produce quality content that engages clients. But if you have preferred content for the ads, you can certainly share it with us so that we can implement your ideas."
+        },
+        {
+            "question": "How Frequently Will You Optimize My Google Ad Account?",
+            "answer": "If the Google ad account is reaching its potential, we will optimize it less frequently or once a month. However, if there are gaps and complexities, we will optimize the campaigns thrice a week."
+        }
+    ]
 }
